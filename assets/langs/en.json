@@ -53,8 +53,8 @@
     "self": "Self",
     "singleally": "Single Ally",
     "allally": "All Ally",
-    "allenemy":"All Enemy",
-    "wbenemy":"Weakness Break Enemy",
+    "allenemy": "All Enemy",
+    "wbenemy": "Weakness Break Enemy",
     "normalatk": "Normal Atk DMG",
     "normalatkcr": "Normal Atk Crit Rate",
     "skillatk": "Skill Atk DMG",
@@ -72,8 +72,9 @@
     "energy": "Energy",
     "additionalatk": "Additional Atk DMG",
     "effectres": "Effect RES",
-    "skillpointre": "SP Recovering",
     "speed": "speed",
-    "imprison":"imprison",
-    "dmgreceive":"dmgreceive"
+    "shield": "Shield",
+    "skillpointre": "SP Recovering",
+    "imprison": "imprison",
+    "dmgreceive": "dmgreceive"
 }

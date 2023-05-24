@@ -53,8 +53,8 @@
     "self": "自身",
     "singleally": "我方单体",
     "allally": "我方全体",
-    "allenemy":"敌方全体",
-    "wbenemy":"弱点击破敌方",
+    "allenemy": "敌方全体",
+    "wbenemy": "弱点击破敌方",
     "normalatk": "普攻伤害",
     "normalatkcr": "普攻暴击率",
     "skillatk": "战技伤害",
@@ -74,6 +74,7 @@
     "effectres": "效果抵抗",
     "skillpointre": "战技点恢复",
     "speed": "速度",
-    "imprison":"禁锢",
-    "dmgreceive":"受到伤害"
+    "shield": "护盾",
+    "imprison": "禁锢",
+    "dmgreceive": "受到伤害"
 }

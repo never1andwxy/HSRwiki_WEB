@@ -53,8 +53,8 @@
     "self": "自身",
     "singleally": "味方単体",
     "allally": "味方全体",
-    "allenemy":"敵全体",
-    "wbenemy":"弱点撃破敵",
+    "allenemy": "敵全体",
+    "wbenemy": "弱点撃破敵",
     "normalatk": "通常攻撃ダメージ",
     "normalatkcr": "通常攻撃会心率",
     "skillatk": "スキルダメージ",
@@ -74,6 +74,7 @@
     "effectres": "効果抵抗",
     "skillpointre": "SP回復",
     "speed": "速度",
-    "imprison":"禁錮",
-    "dmgreceive":"被ダメージ"
+    "shield": "バリア",
+    "imprison": "禁錮",
+    "dmgreceive": "被ダメージ"
 }
