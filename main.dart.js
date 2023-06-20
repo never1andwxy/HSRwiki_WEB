@@ -85621,7 +85621,7 @@ j=A.cT(1,0,0)
 i=A.ck(A.ag("Loading.....",null,null,null,null,null,null,null,null,null,null,null,null))
 k.f.vm(A.QO(A.ahe("\xd7",new A.auT(m),B.m),null,null,B.f6,null,B.z,null,i,B.eL,j,null,null,null,null,null,null,null,null))
 s=7
-return A.K(A.vV(A.fS("https://api.mihomo.me/sr_info_parsed/"+n+"?lang="+o,0,null)),$async$$0)
+return A.K(A.vV(A.fS("https://mohomoapi.yunlu18.net/"+n+"?lang="+o,0,null)),$async$$0)
 case 7:h=b
 l=m.a6(l)
 l.toString
