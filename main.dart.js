@@ -88253,7 +88253,9 @@ b3=A.e8(A.aI(A.a([new A.S(B.B,c,b5),new A.S(B.B,a,b5),new A.S(B.B,a0,b5),new A.S
 b2=b4.id
 b2=new A.lK(b2,A.a_(b2).i("lK<1>"))
 b1=t.c2
-d=A.dC(A.aN(A.a([b3,A.ds(A.acu(0.7362204724409449,b2.geo(b2).eg(0,new A.avj(b4,c5,c3),b1).cH(0),s),1),i,f],c4),d,B.n,B.f),b5,b5)
+b2=A.a([b3,A.ds(A.acu(0.7362204724409449,b2.geo(b2).eg(0,new A.avj(b4,c5,c3),b1).cH(0),s),1),i],c4)
+b2.push(f)
+d=A.dC(A.aN(b2,d,B.n,B.f),b5,b5)
 c=e?B.aM:B.h
 a=A.j(m,255,193,7)
 a=A.d9(A.j(b,255,236,179),B.p7,new A.avk(b4),b4.w,a)
@@ -88277,7 +88279,9 @@ a8=A.j(m,158,158,158)
 a8=A.e8(A.aI(A.a([new A.S(B.B,a,b5),new A.S(B.B,a0,b5),new A.S(B.B,a1,b5),new A.S(B.B,a2,b5),new A.S(B.B,a3,b5),new A.S(B.B,a4,b5),new A.S(B.B,a5,b5),new A.S(B.B,a6,b5),new A.S(B.B,a7,b5),new A.S(B.B,A.d9(A.j(b,245,245,245),A.bL(c2,B.t,B.M,b5,b5,30),new A.avu(b4),b4.fy,a8),b5)],c4),B.h,B.n,B.f),b5,B.Q,b5,b5,B.ac)
 a7=b4.k1
 a7=new A.lK(a7,A.a_(a7).i("lK<1>"))
-c=A.dC(A.aN(A.a([a8,A.ds(A.acu(0.7362204724409449,a7.geo(a7).eg(0,new A.avv(b4,c5,c3),b1).cH(0),s),1),i,f],c4),c,B.n,B.f),b5,b5)
+a7=A.a([a8,A.ds(A.acu(0.7362204724409449,a7.geo(a7).eg(0,new A.avv(b4,c5,c3),b1).cH(0),s),1),i],c4)
+a7.push(f)
+c=A.dC(A.aN(a7,c,B.n,B.f),b5,b5)
 e=e?B.aM:B.h
 a=A.j(m,255,255,255)
 a=A.d9(A.j(b,255,255,255),B.Oz,new A.avw(b4),b4.y,a)
@@ -88285,7 +88289,9 @@ m=A.j(m,255,255,255)
 m=A.e8(A.aI(A.a([new A.S(B.B,a,b5),new A.S(B.B,A.d9(A.j(b,255,255,255),B.OA,new A.avx(b4),b4.z,m),b5)],c4),B.h,B.n,B.f),b5,B.Q,b5,b5,B.ac)
 b=b4.k2
 b=new A.lK(b,A.a_(b).i("lK<1>"))
-c4=A.a([d,c,A.dC(A.aN(A.a([m,A.ds(A.acu(1,b.geo(b).eg(0,new A.avy(b4,c5),b1).cH(0),r),1),i,f],c4),e,B.n,B.f),b5,b5),new A.UO(c3,q,i,b5),new A.Ed(c3,i,b5)],c4)
+r=A.a([m,A.ds(A.acu(1,b.geo(b).eg(0,new A.avy(b4,c5),b1).cH(0),r),1),i],c4)
+r.push(f)
+c4=A.a([d,c,A.dC(A.aN(r,e,B.n,B.f),b5,b5),new A.UO(c3,q,i,b5),new A.Ed(c3,i,b5)],c4)
 return new A.E1(h,g.ax.CW,A.vJ(l,b5,new A.Dz(p,c4,b5),n,A.aIB(new A.qa(A.aiy(b5,b5,new A.c9("images/silverwolficon.png",b5,b5)),b5,b5,45,b5,b5,b5,B.M,b5,B.t,B.bg,!1,!1,!1,b5),!1,b4.ga9v())),b5)}}
 A.atz.prototype={
 $0(){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=this.a;++f.d
