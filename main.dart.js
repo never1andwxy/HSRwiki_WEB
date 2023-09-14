@@ -102860,10 +102860,10 @@ A.aI4.prototype={
 $0(){A.ol("https://www.microsoft.com/store/apps/9MT6XF11KVT7")},
 $S:0}
 A.aI5.prototype={
-$0(){A.ol(A.aPu()+"downloads/hsrwikiproject-1.0.1.21.apk")},
+$0(){A.ol(A.aPu()+"downloads/hsrwikiproject-2.0.0.42.apk")},
 $S:0}
 A.aI6.prototype={
-$0(){A.ol(A.aPu()+"downloads/hsrwikiproject-1.0.1.21.msix")},
+$0(){A.ol(A.aPu()+"downloads/hsrwikiproject-2.0.0.42.msix")},
 $S:0}
 A.LO.prototype={
 c3(){this.d3()
